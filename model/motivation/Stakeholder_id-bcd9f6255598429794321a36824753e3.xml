@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration"
+    id="id-bcd9f6255598429794321a36824753e3"
+    documentation="In EIRA (and EIF), a Public Administration is a state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xD;&#xA;http://data.europa.eu/dr8/PublicAdministration&#xD;&#xA;&#xD;&#xA;The original documentation of this ABB495 in EIRA5 is as follows:&#xD;&#xA;DEFINITION: Public Administration ABB is a Stakeholder implementing a public policy, mainly by the executive branch.&#xD;&#xA;&#xD;&#xA;Source: Gartner&#xD;&#xA;(https://www.gartner.com/en/glossary)&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB495"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+</archimate:Stakeholder>

@@ -1,0 +1,19 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service"
+    id="id-32f0c7c9be2043dfa89a8cceb1e66d5c"
+    documentation="DESCRIPTION:&#xD;&#xA;It is an interoperable public service provisioned by or on behalf of a public administration in support to the realization of a Public Administration digital business capability. An European digital public service comprises any digital public service exposed to a cross-border dimension in the Union.&#xD;&#xA;&#xD;&#xA;Sources: EIF, ISA2 Core Vocabularies, IMM&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xD;&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/imm_guideline_1.pdf &#xD;&#xA;https://ec.europa.eu/isa2/actions/assessing-progress-being-made-towards-interoperability_en &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Structural IoP, Behavioral IoP, Governance IoP&#xD;&#xA;The Public Service ABB is salient for organisational interoperability because it is the central element around which interoperabilty needs to be ensured, as stated in the EIF: &quot;The European Interoperability Framework is a commonly agreed approach to the delivery of European public services in an interoperable manner&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUROPASS2 - Make better use of skills and opportunities across Europe&#xD;&#xA;Europass is a service to help individuals to communicate their skills, qualifications and experience through the use of standardised documents templates.&#xD;&#xA;http://ec.europa.eu/social/main.jsp?catId=1266&amp;langId=en">
+  <properties
+      key="ID"
+      value="ABB1"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableDigitalPublicService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+</archimate:BusinessService>

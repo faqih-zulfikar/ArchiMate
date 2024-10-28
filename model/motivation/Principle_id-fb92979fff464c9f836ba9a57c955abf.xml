@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Carbon-dioxide e-footprint impact awareness "
+    id="id-fb92979fff464c9f836ba9a57c955abf"
+    documentation="http://data.europa.eu/2sa/elap/carbon-dioxide-e-footprint-impact-awareness&#xA;Every solution must support sustainability. The sourcing, operation and decommissioning of IT equipment should not indirectly or directly negatively affect economic, social and environmental aspects.&#xA;Rationale&#xA;Climate change is one of society's challenges for the upcoming decades, and public administrations shall be aware of and consider it when planning or implementing digital public services. Therefore, administrations and bodies in charge of developing public services according to public policies, need to consider the proper agreements that allow the reusing of existing services components and infrastructure to reduce the Carbon-dioxide e-footprint impact.  &#xA;Principle Source&#xA;The European Parliament�s carbon footprint Towards carbon neutrality"/>

@@ -1,0 +1,19 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service"
+    id="id-ece8eb061d7e4f89a789ef1d86e749a5"
+    documentation="DESCRIPTION:&#xD;&#xA;It is a service of general interest that public authorities of the EU member countries classify as being of general interest and, therefore, subject to specific public service obligations. They can be provided either by the state or by the private sector and they can be consumed both by the Public or by internally to the Organisation.&#xD;&#xA;&#xD;&#xA;Based on the definitions Services of general interest: https://ec.europa.eu/info/topics/single-market/services-general-interest_en&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;Not applicable&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUROPASS2 - Make better use of skills and opportunities across Europe&#xD;&#xA;Europass is a service to help individuals to communicate their skills, qualifications and experience through the use of standardised documents templates.&#xD;&#xA;http://ec.europa.eu/social/main.jsp?catId=1266&amp;langId=en">
+  <properties
+      key="ID"
+      value="ABB369"/>
+  <properties
+      key="dct:type"
+      value="eira:Service"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+</archimate:BusinessService>

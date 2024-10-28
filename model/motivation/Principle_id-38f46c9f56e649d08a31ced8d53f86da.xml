@@ -1,0 +1,61 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Library of Architecture Principles"
+    id="id-38f46c9f56e649d08a31ced8d53f86da"
+    documentation="Definition: European Library of Architecture principles ABB is a Principle that aim to support interoperability and standardization in eGoverment across the EU.&#xA;&#xA;Source: ELAP&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/solution/elap&#xA;&#xA;Additional information: The European Library of Architecture Principles (ELAP) ABB is a principle intended to direct government organizations in initiating changes and implementing IT projects. Particularly when designing new or modified services, it is necessary to make visible how the principles are implemented and which considerations are made in this regard. The apply-or-explain principle applies here, whereby deviations are permitted provided that they are substantiated and recorded with good arguments so that they can be revisited at a later stage. This prevents important matters from being overlooked.&#xA;&#xA;Interoperability saliency: The European Library of Architecture Principles ABB is salient for governance interoperability due to it establishes the principles and framework to ensure interoperability at the European level. Also, the European Library of Architecture Principles ABB is salient for organizational interoperability due to it establishes requirements and business processes to enable interoperability between public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;eira:ID: ABB617&#xA;&#xA;ABB name: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;Last modification: 2022-23-01&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+  <properties
+      key="dct:type"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2022-01-23"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="European Library of Architecture Principles (ELAP) ABB is a set of principles that aim to support interoperability and standardization in eGoverment across the EU."/>
+  <properties
+      key="eira:definitionSource"
+      value="ELAP"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/solution/elap"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The European Library of Architecture Principles (ELAP) ABB is salient for governance interoperability due to it establishes the principles and framework to ensure interoperability at the European level. Also, the European Library of Architecture Principles ABB is salient for organizational interoperability due to it establishes requirements and business processes to enable interoperability between public services."/>
+  <properties
+      key="skos:note"
+      value="The European Library of Architecture Principles (ELAP) ABB is a set of principles intended to direct government organizations in initiating changes and implementing IT projects. Particularly when designing new or modified services, it is necessary to make visible how the principles are implemented and which considerations are made in this regard. The apply-or-explain principle applies here, whereby deviations are permitted provided that they are substantiated and recorded with good arguments so that they can be revisited at a later stage. This prevents important matters from being overlooked."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

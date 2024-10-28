@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PA2"
+    id="id-9ce5252511244081be9946ef6614e5f5"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB495"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+</archimate:Stakeholder>

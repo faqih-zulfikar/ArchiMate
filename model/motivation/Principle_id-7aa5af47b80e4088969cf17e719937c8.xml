@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Deployment fit (Cloud-first approach) "
+    id="id-7aa5af47b80e4088969cf17e719937c8"
+    documentation="http://data.europa.eu/2sa/elap/deployment-fit-cloud-first-approach&#xA;Decide early on the type of deployment: On-premise, vs. Cloud-native and sourcing models IaaS, PaaS, SaaS, etc&#xA;Rationale&#xA;It is relevant for the success of Digital Public Services to select the deployment methodologies that fit the needs of the administration and stakeholders (citizens and businesses). &#xA;Principle Source&#xA;EUROPEAN COMMISSION CLOUD STRATEGY Cloud as an enabler for the European Commission Digital Strategy"/>

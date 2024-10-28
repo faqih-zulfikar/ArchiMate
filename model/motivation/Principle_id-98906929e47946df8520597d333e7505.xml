@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Privacy"
+    id="id-98906929e47946df8520597d333e7505"
+    documentation="http://data.europa.eu/2sa/elap/privacy&#xA;Signifies the agreement to the processing of personal data related to an individual&#xA;Rationale&#xA;Privacy refers to any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by clear affirmative action, signifies agreement to the processing of personal data relating to him or her. &#xA;&#xA;Additionally, it refers to ensuring that the vast amounts of citizens' personal data held and processed by public bodies are protected by complying with the applicable legal framework.&#xA;&#xA;A relevant aspect to consider when focusing on the application of privacy is full compliance with GDPR Regulation. &#xA;Principle Source&#xA;Security and Privacy Underlying Principle (8) of the European Interoperability Framework (EIF)"/>

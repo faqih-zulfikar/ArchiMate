@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Transparency of the administrative environment"
+    id="id-e1c137815cb6497c8436bdc0624bf0e2"
+    documentation="http://data.europa.eu/2sa/elap/transparency-of-the-administrative-environment&#xA;Enabling visibility inside the administrative environment of a public administration. &#xA;Rationale&#xA;Enabling visibility within the administrative environment of a public administration. It is about enabling other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making processes.&#xA;Principle Source&#xA;Transparency Underlying Principle (3) of the European Interoperability Framework (EIF)"/>

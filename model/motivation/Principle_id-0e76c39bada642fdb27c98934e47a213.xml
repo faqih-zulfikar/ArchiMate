@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Preservation of information"
+    id="id-0e76c39bada642fdb27c98934e47a213"
+    documentation="http://data.europa.eu/2sa/elap/preservation-information&#xA;Records are preserved and made long-term accessible.&#xA;Rationale&#xA;Legislation requires that decisions and data are stored and can be accessed for a specified time. This includes all data and information in the electronic form held by public administrations for the purpose of documenting procedures and decisions. The goal is to ensure that records and other forms of information keep their legibility, reliability and integrity and can be accessed as long as needed subject to security and privacy provisions.&#xA;Principle Source&#xA;Preservation of information Underlying Principle (12) of the European Interoperability Framework (EIF)"/>

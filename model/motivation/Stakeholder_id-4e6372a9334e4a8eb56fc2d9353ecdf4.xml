@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business 4"
+    id="id-4e6372a9334e4a8eb56fc2d9353ecdf4"
+    documentation="DEFINITION: Business ABB is a Stakeholder making, buying, or selling goods or providing services in exchange for money.&#xD;&#xA;&#xD;&#xA;Source: Gartner&#xD;&#xA;(https://www.gartner.com/en/glossary/business)&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB507"/>
+  <properties
+      key="dct:type"
+      value="eira:Business"/>
+</archimate:Stakeholder>

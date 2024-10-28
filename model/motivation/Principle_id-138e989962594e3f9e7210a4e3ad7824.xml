@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Transparency of internal information systems"
+    id="id-138e989962594e3f9e7210a4e3ad7824"
+    documentation="http://data.europa.eu/2sa/elap/transparency-of-internal-information-systems&#xA;Ensuring availability of interfaces with internal information systems. &#xA;Rationale&#xA;Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates the reuse of systems and data and enables these to be integrated into larger systems.&#xA;Principle Source&#xA;Transparency Underlying Principle (3) of the European Interoperability Framework (EIF)"/>

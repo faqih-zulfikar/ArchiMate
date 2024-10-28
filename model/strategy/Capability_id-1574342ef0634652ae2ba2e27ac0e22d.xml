@@ -1,0 +1,22 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Capability"
+    id="id-1574342ef0634652ae2ba2e27ac0e22d"
+    documentation="DESCRIPTION:&#xD;&#xA;A business capability is the ability of  a public administration to digitally perform an administrative function.&#xD;&#xA;&#xD;&#xA;Based on the definitions from the European Statistical System: https://joinup.ec.europa.eu/collection/statistical-enterprise-architecture/document/ess-earf-business-capabilities-model&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;Not applicable&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;ePrescription:&#xD;&#xA;&quot;Generation, transmission, and filling of a medical prescription through digital channels. ePrescribing allows a physician, pharmacist, nurse practitioner, or physician assistant to use digital prescription software to electronically transmit a new prescription or renewal authorization to a community or mail-order pharmacy&quot;.">
+  <properties
+      key="ID"
+      value="ABB370"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessCapability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:ABB_Status"
+      value="Obsolete"/>
+</archimate:Capability>

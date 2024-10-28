@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation 2"
+    id="id-e150442fdf8844948811276a88b0351a"
+    documentation="DEFINITION: Organisation ABB is a Stakeholder acting as a company that is formed for a particular purpose.&#xD;&#xA;&#xD;&#xA;Source: Gartner&#xD;&#xA;(https://www.gartner.com/en/glossary)&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB494"/>
+  <properties
+      key="dct:type"
+      value="eira:Organisation"/>
+</archimate:Stakeholder>

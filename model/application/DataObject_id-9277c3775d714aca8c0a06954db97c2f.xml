@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Knowledge Base"
+    id="id-9277c3775d714aca8c0a06954db97c2f"
+    documentation="DESCRIPTION:&#xD;&#xA;A shared Knowledge Base is formed by usable data, information and knowledge resources, with  convergence power, in relation to public policy goals attainment, given by their impact in the enactment of common understanding from the existing organisational information, across the levels of a public administration (central, regional, local) towards the achievement of the public policy goals, enabling :&#xD;&#xA;i)&#x9;structural interoperability by semantic resources supporting reusing and/or sharing of data, information and knowledge (i.e. data set catalogue enabling provisioning/consuming data, information and knowledge cross public administrations and cross borders); &#xD;&#xA;ii)&#x9;behavioural interoperability by semantic resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Metadata mappings enabling that data/information/knowledge be provisioned/consumed cross public administrations and cross borders); and&#xD;&#xA;iii)&#x9;governance interoperability by semantic resources supporting the collaboration with internal/external peers exchanging data, information or knowledge (i.e. Sematic Interoperability Agreements on interpretations enabling sharing, reuse and exchange of data/information/knowledge cross public administrations and cross borders).  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Structural IoP, Behavioral IoP, Governance IoP&#xD;&#xA;This ABB is a key interoperability enabler because it supports to achieve semantic interoperability with public policy goals convergence value by  all in all enabling i) the provision/consumption of  data by public services,  ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services">
+  <properties
+      key="ID"
+      value="ABB366"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedKnowledgeBase"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"/>
+  <properties
+      key="eira:actual_use"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:DataObject>

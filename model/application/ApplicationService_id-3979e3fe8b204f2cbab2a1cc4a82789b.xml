@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Platform"
+    id="id-3979e3fe8b204f2cbab2a1cc4a82789b"
+    documentation="DESCRIPTION:&#xD;&#xA;A shared platform is formed by [re]usable ICT resources (i.e. the platform), with  convergence power, in relation to public policy goals attainment, given by the impact of the availability of common problem-solving instruments, across the levels of a public administration (central, regional, local) towards the achievement of the public policy goals, enabling :&#xD;&#xA;i) structural interoperability by ICT resources  supporting reusing and/or sharing of data, information and knowledge (i.e. service registry service enabling provisioning/consuming [back-office] services cross public administrations and cross borders);&#xD;&#xA;ii) behavioural interoperability by ICT resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. technical interfaces enabling that data/information/knowledge be provisioned/consumed cross public administrations and cross borders); an&#xD;&#xA;iii) governance interoperability by ICT resources supporting the collaboration with internal/external peers exchanging data, information or knowledge (i.e. Technical Interoperability Agreements on technical terms/conditions enabling sharing, reuse and exchange of data/information/knowledge cross public administrations and cross borders).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP dimensions: Structural  IoP  Behavioral IoP, Governance IoP&#xD;&#xA;This ABB is a key interoperability enabler because it supports to achieve technical interoperability with public policy goals convergence value by  all in all enabling i) the provision/consumption of  back-office digital public services,  ii) the exchange of data, information, and knowledge between digital public services and individuals , and iii) collaboration between digital public services.">
+  <properties
+      key="ID"
+      value="ABB367"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedPlatform"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+</archimate:ApplicationService>

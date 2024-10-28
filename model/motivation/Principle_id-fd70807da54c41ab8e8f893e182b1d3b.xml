@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FAIR principles"
+    id="id-fd70807da54c41ab8e8f893e182b1d3b"
+    documentation="https://www.go-fair.org/fair-principles/&#xD;&#xA;Data are made FAIR (Findable, Accessible, Interoperable and Reusable) enabling their reuse for other purposes.&#xD;&#xA;Rationale:&#xD;&#xA;The FAIR principles are intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. &#xD;&#xA;The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.">
+  <properties
+      key="dct:type"
+      value="oecd:ArchitecturePrinciple"/>
+</archimate:Principle>

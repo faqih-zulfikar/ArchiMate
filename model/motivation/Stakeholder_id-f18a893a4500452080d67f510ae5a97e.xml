@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Focal Public Administration"
+    id="id-f18a893a4500452080d67f510ae5a97e"
+    documentation="The Focal Public Administration architectural building block (ABB) represents the Administration that is modelled in this Enterprise Architecture model.&#xD;&#xA;It is a specialisation of the [Public Administration] ABB495 from the European Interoperability Reference Architecture (EIRA).&#xD;&#xA;&#xD;&#xA;All other ABB in this model have to be interpreted in the context of the Focal Public Administration, that is the central unit of analysis.&#xD;&#xA;&#xD;&#xA;If the FPA is part of a larger organisation, that can be documented here or it can be made explicit in the model by including a ABB495 (Public Administration) stakeholder.">
+  <properties
+      key="ID"
+      value="ABB495"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+</archimate:Stakeholder>

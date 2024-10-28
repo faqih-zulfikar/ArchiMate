@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Technology Neutrality"
+    id="id-3bb20923ef294fff82f1f62f7e11ae64"
+    documentation="http://data.europa.eu/2sa/elap/technology-neutrality&#xA;Laws and regulations are technology neutral &#xA;Rationale&#xA;Regulations tied to a particular technology may quickly become obsolete and require further amendment. Also, technology-specific regulations lead to dependency on specific manufacturers, developers, suppliers or distributors of technology or services. It guarantees freedom of choice by not forcing users into using any specific technology.&#xA;Principle Source&#xA;Technological neutrality and data portability Underlying Principle (5) of the European Interoperability Framework (EIF)"/>

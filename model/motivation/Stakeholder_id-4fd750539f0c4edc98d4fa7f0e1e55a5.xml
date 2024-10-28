@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Political responsible"
+    id="id-4fd750539f0c4edc98d4fa7f0e1e55a5"
+    documentation="The political responsible for the Focal Public Administration">
+  <properties
+      key="ID"
+      value="ABB497"/>
+  <properties
+      key="dct:type"
+      value="eira:Individual"/>
+</archimate:Stakeholder>

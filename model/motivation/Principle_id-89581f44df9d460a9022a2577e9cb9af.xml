@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Multilingualism"
+    id="id-89581f44df9d460a9022a2577e9cb9af"
+    documentation="http://data.europa.eu/2sa/elap/multilingualism&#xA;European digital public services are multilingual.&#xA;Rationale&#xA;European public services can potentially be used by anyone in any Member State. So multilingualism needs to be carefully considered when designing them. Citizens across Europe often have problems accessing and using digital public services if these are not available in the languages they speak.&#xA;Principle Source&#xA;Multilingualism Underlying Principle (9) of the European Interoperability Framework (EIF)"/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Data portability"
+    id="id-f6c694c0d7e349ea92278b31bc468973"
+    documentation="http://data.europa.eu/2sa/elap/data-portability&#xA;Data portability is ensured.&#xA;Rationale&#xA;The functioning of the digital single market requires data to be easily transferable among different systems to avoid lock-in and support the free movement of data. This requirement relates to data portability - the ability to move and reuse data easily among different applications and systems, which becomes even more challenging in cross-border scenarios.&#xA;Principle Source&#xA;Technological neutrality and data portability Underlying Principle (5) of the European Interoperability Framework (EIF)"/>

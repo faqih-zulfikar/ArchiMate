@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Legal Framework"
+    id="id-27c4db23ccb14a72818a707de9ef451d"
+    documentation="DESCRIPTION:&#xD;&#xA;A shared legal framework is formed by [re]usable legal resources, with  convergence power, in relation to public policy goals attainment, given by their legally binding nature, across the levels of a public administration (central, regional, local) towards the achievement of the public policy goals, enabling :&#xD;&#xA;i)&#x9;structural interoperability by legal resources supporting reusing and/or sharing legislation (i.e. legislation catalogue  enabling provisioning/consuming legal texts cross public administrations and cross borders);&#xD;&#xA;ii)&#x9;behavioural interoperability by legal resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Legislation on Knowledge, Information and data exchange enabling that data/information/knowledge be provisioned/consumed cross public administrations and cross borders ); and&#xD;&#xA;iii)&#x9;governance interoperability by legislation supporting the collaboration with internal/external peers exchanging data, information or knowledge (i.e. Legal Interoperability Agreements on legal terms assuring juridical certainty enabling agreed legal terms/conditions for sharing, reuse and exchange of data/information/knowledge cross public administrations and cross borders).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP dimensions: Structural IoP, Behavioral IoP, Governance IoP&#xD;&#xA;This ABB is a key interoperability enabler because it supports to achieve legal interoperability with public policy goals convergence value by  all in all enabling i) sharing/provisioning/reusing/consumption of legislation on digital public services,  ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services">
+  <properties
+      key="ID"
+      value="ABB357"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedLegalFramework"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:BusinessObject>

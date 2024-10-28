@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="id-a4796cad836f4267b950a1b9a4f4a6f1"
+    documentation="In EIRA, organisation is documented as follows: http://data.europa.eu/dr8/Organisation&#xD;&#xA;&#xD;&#xA;The &quot;LegalEntity&quot; ABB496 represents the generic concept of a stakeholder in EIRA5. &quot;Individual&quot; and &quot;Organisation&quot; are specialisations of this ABB. On their turn, &quot;Public Administration&quot; and &quot;Business&quot; are specialisations of &quot;Organisation&quot;.&#xD;&#xA;&#xD;&#xA;For this reason, in KU Leuven PAA, we use &quot;Organisation&quot; as the stereotype for legal entities that are NOT Public Administrations or Businesses, like for example : not for profit organisations, NGOs, citizen representation groups etc.&#xD;&#xA;&#xD;&#xA;The original documentation of the Organisation ABB494 is as follows:&#xD;&#xA;DEFINITION: Organisation ABB is a Stakeholder acting as a company that is formed for a particular purpose.&#xD;&#xA;&#xD;&#xA;Source: Gartner&#xD;&#xA;(https://www.gartner.com/en/glossary)&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB494"/>
+  <properties
+      key="dct:type"
+      value="eira:Organisation"/>
+</archimate:Stakeholder>

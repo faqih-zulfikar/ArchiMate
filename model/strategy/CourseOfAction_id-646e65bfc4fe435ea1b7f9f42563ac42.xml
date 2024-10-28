@@ -1,0 +1,11 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create / Operate Value Creating Public Administration Service"
+    id="id-646e65bfc4fe435ea1b7f9f42563ac42">
+  <properties
+      key="ID"
+      value="ABB9"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicy"/>
+</archimate:CourseOfAction>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-43200b2844e84c86881adc010bcc5c68"
+    documentation="The goal of [Achieving Semantic Interoperability] is assessed by the use of [Representations] that ensure compatible interpretation.">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_id-4e7b5b682808444fac232f46a7a6db2f.xml#id-4e7b5b682808444fac232f46a7a6db2f"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-6845ba3ec10a40f0a239213f094b8fd0.xml#id-6845ba3ec10a40f0a239213f094b8fd0"/>
+</archimate:RealizationRelationship>

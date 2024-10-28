@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Openness"
+    id="id-df299e0f65124113a16e07420b1c820e"
+    documentation="http://data.europa.eu/2sa/elap/openness&#xA;In the context of interoperable public services, the concept of&quot;openness&quot;mainly relates to data, specifications and software.&#xA;Rationale&#xA;This principle is based on three pillars: the openness of public administration's data, the openness of the software used and implemented and the openness of standards and specifications used to develop digital public services. &#xA;Principle Source&#xA;Openness Underlying Principle (2) of the European Interoperability Framework (EIF)"/>

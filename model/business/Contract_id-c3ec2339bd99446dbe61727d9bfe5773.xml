@@ -1,0 +1,28 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Agreement"
+    id="id-c3ec2339bd99446dbe61727d9bfe5773"
+    documentation="DESCRIPTION:&#xD;&#xA;Organizational Agreement means any agreement to which the Company or any Restricted Subsidiary is a party pursuant to which, among other things, fees are paid to the Company or a Restricted Subsidiary in exchange for organizational, consulting or similar services, including, without limitation, the agreements listed on Schedule A to this Indenture under the subheading &quot;Organizational Contracts.&quot;&#xD;&#xA;&#xD;&#xA;Based on the definitions in Definition of Organizational Agreement in Law Insider&#xD;&#xA;https://www.lawinsider.com/dictionary/organizational-agreement  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;Not applicable&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;DSI Organisational Agreement:&#xD;&#xA;The Trust and Golden agreement hereby consent to this assignment by SAC of its rights under the Organizational Agreement to DSI and the assumption by DSI of SAC's interest in such Agreement and the duties and obligations thereunder, and agree, subject to the terms and conditions of said Agreement, to look to DSI for the performance of the duties and obligations formerly owed by SAC under said Agreement.">
+  <properties
+      key="ID"
+      value="ABB371"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:interoperability_type"
+      value="[ Collaboration agreement | Provider agreement | Service agreement ]"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+</archimate:Contract>

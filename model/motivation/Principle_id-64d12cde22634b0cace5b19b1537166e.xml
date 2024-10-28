@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> EU Localisation Framework compliance"
+    id="id-64d12cde22634b0cace5b19b1537166e"
+    documentation="http://data.europa.eu/2sa/elap/eu-localisation-framework-compliance&#xA;EU Localisation Framework compliance refers to digital public services being compliant and implementing the INSPIRE directive and the different requirements stated in the regulation. &#xA;Rationale&#xA;The EU Localisation Framework concept consists of a package of case studies, specifications, guidelines, training materials, recommendations and actions required by public administrations and stakeholder communities to facilitate the implementation, use and expansion of INSPIRE in an e-government context.&#xA;Principle Source&#xA;European Union Location Framework (EULF)"/>

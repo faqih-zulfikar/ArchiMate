@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Data Interoperability"
+    id="id-381444f7bdb34696983124345773048b"
+    documentation="http://data.europa.eu/2sa/elap/data-interoperability&#xA;Datasets metadata machine-readable format, vocabularies reused, and reference to other datasets and their metadata. &#xA;Rationale&#xA;Data format should be readable for machines without the need for specialised or ad hoc algorithms, translators, or mappings. &#xA;&#xA;Data does not exist in isolation but is highly dependent upon other data that is available from other parties. Data should also be reused, when possible, to prevent collecting the same data twice and introducing duplication, with the risk of inconsistency. &#xA;&#xA;Controlled vocabularies define the terms in a specific domain, standardising their interpretation. These concepts are the foundation for data, providing definitions and meaning to them. It is important for users of data to have access to these definitions, so they can correctly interpret the data.&#xA;Principle Source&#xA;FAIR principles "/>

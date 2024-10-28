@@ -1,0 +1,25 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Agreement"
+    id="id-b3867ca7afc6409e9ae7cc00126f1c2f"
+    documentation="DESCRIPTION:&#xD;&#xA;A Semantic interoperability agreement is a semantic  resource formalizing governance rules enabling collaboration between digital public services with ontological value.&#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/document/2015-03/Process&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Governance IoP&#xD;&#xA;The Semantic Interoperability Agreement ABB  is a key interoperability enabler because it supports semantic governance interoperability by enabling collaboration between digital public services.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;e-Invoicing Semantic Data Model&#xD;&#xA;The semantic data model includes only the essential information elements that an electronic invoice needs to ensure legal (including fiscal) compliance and to enable interoperability for cross-border, cross-sector and for domestic trade. The semantic data model may be used by public and private sector organisations for public procurement invoicing and took into account the physical and financial supply chain perspective, reflecting both private and public sector requirements, with a view to allowing the full straight-through processing of an electronic invoice.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2017/06/28/CEN+Publishes+eInvoicing+Semantic+Data+Model">
+  <properties
+      key="ID"
+      value="ABB232"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilityAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+</archimate:Contract>

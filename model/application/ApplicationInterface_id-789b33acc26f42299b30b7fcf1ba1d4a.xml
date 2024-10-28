@@ -1,0 +1,22 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine to Machine Interface"
+    id="id-789b33acc26f42299b30b7fcf1ba1d4a"
+    documentation="DESCRIPTION:&#xD;&#xA;A boundary set of means enabling the exchange of data between a service and other services.&#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing compatible interfaces.&#xD;&#xA;&#xD;&#xA;Source: ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;IoP Dimension: Behavioral IoP&#xD;&#xA;The Machine to machine interface ABB  is a key interoperability enabler because it supports to achieve technical behavioral interoperability by   enabling the exchange of data, information, and knowledge between digital public services as stated in the EIF recommendation n°5: &quot;&quot;Ensure internal visibility and provide external interfaces for European public services&quot; and recommendation n°9:&quot;Ensure data portability, namely that data is easily transferable between systems and applications supporting the implementation and evolution of European public services without unjustified restrictions, if legally possible.&quot;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;XMLGate TRACES Businesses (XTB)&#xD;&#xA;Webservices enabling the management of organisations and cities registered in TRACES.&#xD;&#xA;https://circabc.europa.eu/sd/a/dc77e52b-dfba-4dcc-aa39-6a54748db01d/XmlGate%20TRACES%20Businesses%20Manual.doc&#xD;&#xA;&#xD;&#xA;In addition, the European Commission has publiched a study, called APIs4DGov, on Web Application Programming interfaces (APIs). The study identifies and describes a set of API standards and technical specification which can be used for Machine to Machine interfaces, as an example:&#xD;&#xA;&#xD;&#xA;Advanced Message Queuing Protocol (AMQP);&#xD;&#xA;Application Performance Index (APDEX);&#xD;&#xA;HAL-FORMS.&#xD;&#xA;&#xD;&#xA;The study lists 80 APIs standards, which can be consulted at the following link: https://ec.europa.eu/knowledge4policy/node/35863_el">
+  <properties
+      key="ID"
+      value="ABB38"/>
+  <properties
+      key="dct:type"
+      value="eira:MachineToMachineInterface"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Use planned | No ]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f71425e16cdd4cc9b5548669e3175a41"
+    documentation="A [Public Service] implements a [Public Policy]">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-ece8eb061d7e4f89a789ef1d86e749a5.xml#id-ece8eb061d7e4f89a789ef1d86e749a5"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-646e65bfc4fe435ea1b7f9f42563ac42.xml#id-646e65bfc4fe435ea1b7f9f42563ac42"/>
+</archimate:RealizationRelationship>

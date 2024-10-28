@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> User-centricity"
+    id="id-475ba396378e45f3b72d963950863702"
+    documentation="http://data.europa.eu/2sa/elap/user-centricity&#xA;The design of digital public services is centred around their users.&#xA;Rationale&#xA;Users of European public services are meant to be any public administration, citizen or business accessing and benefiting from the use of these services. Users� needs should be considered when determining which public services should be provided and how they should be delivered. Therefore, as far as possible, user needs and requirements should guide the design and development of public services.&#xA;Principle Source&#xA;User-Centricity Underlying Principle (6) of the European Interoperability Framework (EIF)"/>

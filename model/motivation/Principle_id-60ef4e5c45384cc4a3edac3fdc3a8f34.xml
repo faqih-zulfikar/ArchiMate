@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Data Findability"
+    id="id-60ef4e5c45384cc4a3edac3fdc3a8f34"
+    documentation="http://data.europa.eu/2sa/elap/data-findability&#xA;Metadata and data should be easy to find for both humans and computers&#xA;Rationale&#xA;Global and universal identification of metadata and data must be achieved by globally unique and persistent identifiers.&#xA;&#xA;Enriched (Meta)Data refers to data enrichment, regardless of any specific purpose or use. &#xA;&#xA;Metadata needs to be linked to the data that is described. &#xA;&#xA;Metadata and data should promote the discovery of digital resources. &#xA;Principle Source&#xA;FAIR Principles "/>

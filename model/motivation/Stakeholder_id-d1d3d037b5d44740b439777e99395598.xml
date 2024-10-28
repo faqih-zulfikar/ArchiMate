@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persona1"
+    id="id-d1d3d037b5d44740b439777e99395598"
+    documentation="A persona representing a group of individuals that are stakeholders of the [FPO]">
+  <properties
+      key="ID"
+      value="ABB497"/>
+  <properties
+      key="dct:type"
+      value="eira:Individual"/>
+</archimate:Stakeholder>

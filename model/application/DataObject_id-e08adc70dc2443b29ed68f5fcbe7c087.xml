@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogue of APIs"
+    id="id-e08adc70dc2443b29ed68f5fcbe7c087"
+    documentation="DESCRIPTION:&#xD;&#xA;A catalogue of all the available APIs for consumption by a specific solution.&#xD;&#xA;&#xD;&#xA;IoP Dimension: Structural IoP, Behavioral IoP&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;API4Gov"/>

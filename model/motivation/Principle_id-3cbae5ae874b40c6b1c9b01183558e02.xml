@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Trust"
+    id="id-3cbae5ae874b40c6b1c9b01183558e02"
+    documentation="http://data.europa.eu/2sa/elap/trust &#xA;Digital Public Services, the organisations behind them and the data managed need to incorporate the relevant mechanism to ensure overall trustworthiness. &#xA;Rationale&#xA;Trust entails citizens' reliance on trustworthy and verifiable digital government applications and services, which fully conform to high-security standards and respond to user needs. Fundamental rights and security should be integrated into all policies with a digital dimension. To foster trust in digital interactions with the public sector, suitable regulatory frameworks that ensure transparency, predictability, security-by-design and, where necessary, reinforcement or adjustment of existing provisions must be provided.&#xA;Principle Source&#xA;Digital trust, from Shaping Europe�s digital future"/>

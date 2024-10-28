@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ELAP:ArchitecturePrinciple>> Data Accessibility"
+    id="id-a8e949ba46d0472cb20bec87104f2a3c"
+    documentation="http://data.europa.eu/2sa/elap/data-accessibility&#xA;Data and metadata availability through standardised mechanism and ensure its long-term availability&#xA;Rationale&#xA;Data retrieval should be mediated without specialised or proprietary tools or communication methods. This principle focuses on how data and metadata can be retrieved from their identifiers&#xA;&#xA;Datasets tend to degrade or disappear over time because there is a cost to maintaining an online presence for data resources. When this happens, links become invalid and users waste time hunting for data that might no longer be there. Then, metadata should persist even when the data are no longer sustained.&#xA;Principle Source&#xA;FAIR Principles"/>
